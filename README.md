@@ -1,5 +1,5 @@
 # awsome-prompt
-The awsome_promp.omp.json file contains custome theme for oh-my-posh shell.
+The awsome_promp.omp.json file contains custom theme for oh-my-posh shell.
 
 # Oh-My-Posh
 [Install oh-my-posh](https://ohmyposh.dev/docs/)
