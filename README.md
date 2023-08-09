@@ -18,4 +18,4 @@ The awsome_promp.omp.json file contains custome theme for oh-my-posh shell.
   ```
   oh-my-posh init zsh --config 'path/to/file/awsome_prompt.omp.json' | Invoke-Expression
   ```
-
+![Screenshot of Konsole terminal. The terminal contains neofetch.](https://raw.githubusercontent.com/nahidreza99/awesome-prompt/main/Screenshot.png)
